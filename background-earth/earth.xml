@@ -1,0 +1,175 @@
+<!-- Intruction:
+- Download and unzip earth dynamic background here: https://files.rb.gd/mojave_dynamic.zip 
+- Fix the path to the background images
+- Use gnome-tweaks tool to select this XML as wallpaper
+-->
+<background>
+  <starttime>
+    <year>2019</year>
+    <month>01</month>
+    <day>11</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_15.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_15.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_16.jpeg</to>
+  </transition>
+  <!-- 03:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_16.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_16.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_1.jpeg</to>
+  </transition>
+  <!-- 05:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_1.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_1.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_2.jpeg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_2.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_2.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_3.jpeg</to>
+  </transition>
+  <!-- 07:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_3.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_3.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_4.jpeg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_4.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_4.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_5.jpeg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_5.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_5.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_6.jpeg</to>
+  </transition>
+  <!-- 10:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_6.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_6.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_7.jpeg</to>
+  </transition>
+  <!-- 11:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_7.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_7.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_8.jpeg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_8.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_8.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_9.jpeg</to>
+  </transition>
+  <!-- 14:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_9.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_9.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_10.jpeg</to>
+  </transition>
+  <!-- 15:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_10.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_10.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_11.jpeg</to>
+  </transition>
+  <!-- 16:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_11.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_11.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_12.jpeg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_12.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_12.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_13.jpeg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_13.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_13.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_14.jpeg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_14.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_14.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-earth/24hr-Earth_15.jpeg</to>
+  </transition>
+</background>

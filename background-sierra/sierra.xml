@@ -1,0 +1,176 @@
+<!-- 
+- Set with gnome-tweak-tool
+
+- Not tested with other desktop environments but I
+- assume they should work with minor modification 
+-->
+<background>
+  <starttime>
+    <year>2019</year>
+    <month>01</month>
+    <day>11</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+  <!-- 00:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_15.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_15.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_16.jpeg</to>
+  </transition>
+  <!-- 03:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_16.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_16.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_1.jpeg</to>
+  </transition>
+  <!-- 05:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_1.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_1.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_2.jpeg</to>
+  </transition>
+  <!-- 06:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_2.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_2.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_3.jpeg</to>
+  </transition>
+  <!-- 07:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_3.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_3.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_4.jpeg</to>
+  </transition>
+  <!-- 08:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_4.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_4.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_5.jpeg</to>
+  </transition>
+  <!-- 09:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_5.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_5.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_6.jpeg</to>
+  </transition>
+  <!-- 10:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_6.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_6.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_7.jpeg</to>
+  </transition>
+  <!-- 11:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_7.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_7.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_8.jpeg</to>
+  </transition>
+  <!-- 13:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_8.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_8.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_9.jpeg</to>
+  </transition>
+  <!-- 14:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_9.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_9.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_10.jpeg</to>
+  </transition>
+  <!-- 15:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_10.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_10.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_11.jpeg</to>
+  </transition>
+  <!-- 16:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_11.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_11.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_12.jpeg</to>
+  </transition>
+  <!-- 17:00 -->
+  <static>
+    <duration>3595.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_12.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_12.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_13.jpeg</to>
+  </transition>
+  <!-- 18:00 -->
+  <static>
+    <duration>7195.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_13.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_13.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_14.jpeg</to>
+  </transition>
+  <!-- 20:00 -->
+  <static>
+    <duration>10795.0</duration>
+    <file>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_14.jpeg</file>
+  </static>
+  <transition type="overlay">
+    <duration>5.0</duration>
+    <from>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_14.jpeg</from>
+    <to>/home/lloyd/Pictures/wallpapers/background-sierra/24hr-HighSierra_15.jpeg</to>
+  </transition>
+</background>
